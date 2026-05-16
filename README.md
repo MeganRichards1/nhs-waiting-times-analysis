@@ -1,6 +1,6 @@
 # NHS RTT Waiting Time Analysis
 ## Project Overview
-This project analyses NHS Referral to Treatment (RTT) waiting-time data to investigate waiting-time distributions, assess reporting completeness, and explore variation across NHS providers and treatment functions. The project uses publicly available NHS RTT data [found here] (https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/). 
+This project analyses NHS Referral to Treatment (RTT) waiting-time data to investigate waiting-time distributions, assess reporting completeness, and explore variation across NHS providers and treatment functions. The project uses publicly available NHS RTT data [found here](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/). 
 
 The analysis was developed as a portfolio data science project demonstrating:
 - data cleaning and validation
